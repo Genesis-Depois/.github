@@ -1,2 +1,2 @@
 # .github
-Readme do nosso projeto >.&lt;
+Readme do nosso projeto 
